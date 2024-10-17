@@ -7,10 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        body: ["Roboto"],
       },
+      colors: {},
     },
   },
   plugins: [],
